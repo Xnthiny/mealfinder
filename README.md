@@ -2,8 +2,6 @@
 
 ### *Food is for eating, and good food is to be enjoyed*
 
-[See the app in action here](htpps://xnthiny.github.io/mealfinder)
-
 ![screenshot](https://github.com/Xnthiny/project1/blob/master/assets/images/MealFinderHome.png)
 
 ## Project 1 - Full Stack Development Program University of Miami Cohort 2019
@@ -60,6 +58,8 @@ Firebase & Login (Shirley, Anthony & Kayla)
 Styling CSS (Anthony, Kayla & Juliette) 
 
 Favorites functionality (Shirley)
+
+[See the app in action here](https://xnthiny.github.io/mealfinder)
 
 ## Copyright
 Shirley Espert Galarce, Juliette Amador, Anthony Ham, Kayla Gilchrist
