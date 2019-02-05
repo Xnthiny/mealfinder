@@ -2,7 +2,7 @@
 
 ### *Food is for eating, and good food is to be enjoyed*
 
-![alt text](https://github.com/Xnthiny/project1/blob/master/assets/images/MealFinderHome.png)
+![screenshot](https://github.com/Xnthiny/project1/blob/master/assets/images/MealFinderHome.png)
 
 ## Project 1 - Full Stack Development Program University of Miami Cohort 2019
 
@@ -25,6 +25,8 @@ MealFinder is a user friendly web application that allows you to input foods and
 - Recipes search based on ingredients.
 - Restaurant search based on location and cuisine or diet of the recipe.
 - Recipes can be saved in a Favorite list to be retrieved anytime by each user.
+
+![gif of app flow](https://github.com/Xnthiny/project1/blob/master/assets/images/AppFLow.gif)
  
 ### Motivation
 
