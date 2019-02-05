@@ -1,0 +1,212 @@
+* {
+    font-family: ‘Roboto’, sans-serif;
+    margin: 0;
+}
+
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    position: relative;
+    margin: 0;
+    padding-bottom: 6rem;
+    min-height: 100%;
+}
+
+#logo {
+    height: 200px;
+    margin-top: 10%;
+    margin-bottom: 10px;
+}
+
+#logo-small {
+    height: 120px;
+    margin: 10px;
+}
+
+.header-break {
+    border: .5px solid black;
+}
+
+.header {
+    text-align: center;
+    margin: 0;
+}
+
+#delete {
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+}
+
+#ingredients div, #city div  {
+    border: 1px solid grey;
+    font-size: 18px;
+    box-sizing: border-box;
+    width: 15%;
+    height: 2%;
+    margin-top: 4%;
+    border-radius: 30px;
+}
+
+.new-button {
+    outline: black;
+    width: 15%;
+    height: 2%;
+    border-radius: 50px;
+    margin-top: 4%;
+}
+
+.signin-button {
+    outline: black;
+    width: 15%;
+    height: 2%;
+    margin-top: 4%;
+    border-radius: 30px;
+}
+
+.submit-button {
+    outline: black;
+    width: 15%;
+    height: 2%;
+    border-radius: 30px;
+}
+
+.gologin-button, #new-account {
+    outline: black;
+    width: 15%;
+    height: 2%;
+    margin-top: 4%;
+    border-radius: 30px;
+}
+
+#moreRecipes,  #search-again {
+    outline: black;
+    width: 15%;
+    height: 10%;
+    margin-top: 4%;
+    border-radius: 30px;
+}
+
+form div.active {
+    left: 0;
+}
+
+#search-items {
+    padding-left: 44%;
+}
+
+.container {
+    position: relative;
+    min-height: 100%;
+    height: 100%;
+}
+
+.wrapper {
+    margin: 0 auto;
+    padding-top: 64px;
+    max-width: 85%;
+    width: 94%;
+}
+
+
+.add-item, .add-city  {
+    outline: none;
+    width: 50px;
+    border-radius: 30px;
+}
+
+.sign-out-btn, .fav-btn  {
+    outline: black;
+    border-radius: 30px;
+}
+
+.search-page-button {
+    outline: none;
+    width: 50px;
+    border-radius: 30px;
+}
+
+h2 {
+    margin-top: 15px;
+    color: white;
+    font-style: italic;
+    font-weight: 500;
+}
+
+h1 {
+    color: white;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 70px;
+}
+
+#logosearch {
+    height: 240px;
+    margin: 2%;
+    margin-top: 11%;
+    margin-bottom: 10px;
+}
+
+#email, #password, #reg-email, #reg-password, .ingredientToSearch, .cityToSearch {
+    outline: none;
+    border-radius: 10px;
+}
+
+#logoreg {
+    height: 200px;
+    margin-top: 8%;
+}
+
+#account {
+    color: black;
+}
+
+#error-msg {
+    color: red;
+}
+
+#ingredients {
+    display: flex;
+}
+
+.recipes {
+    padding: 20px;
+    background-color: #efefef;
+    border-radius: 20px;
+}
+
+.restaurants {
+    padding:20px;
+    background-color: #efefef;
+    border-radius: 20px;
+}
+
+#rest-text {
+    color: black;
+}
+
+#recipe-text {
+    color: black;
+}
+
+#recipeInstr {
+    text-align: left;
+}
+
+#footer {
+    position: absolute;
+    color: grey;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #efefef;
+    text-align: center;
+}
