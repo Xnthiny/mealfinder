@@ -2,6 +2,8 @@
 
 ### *Food is for eating, and good food is to be enjoyed*
 
+[See the app in action here](htpps://xnthiny.github.io/mealfinder)
+
 ![screenshot](https://github.com/Xnthiny/project1/blob/master/assets/images/MealFinderHome.png)
 
 ## Project 1 - Full Stack Development Program University of Miami Cohort 2019
