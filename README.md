@@ -42,12 +42,17 @@ Four Squares: Places, Venue & Restaurant Search
 
 ## Contributions
 
-API Recipe Finder - Shirley 
-API Restaurants - Juliette 
-Javascript - Shirley & Juliette
-Firebase & Login - Shirley, Anthony & Kayla
-Styling CSS - Anthony, Kayla & Juliette 
-Favorites functionality - Shirley
+API Recipe Finder (Shirley)
+
+API Restaurants (Juliette) 
+
+Javascript (Shirley & Juliette)
+
+Firebase & Login (Shirley, Anthony & Kayla)
+
+Styling CSS (Anthony, Kayla & Juliette) 
+
+Favorites functionality (Shirley)
 
 ## Copyright
 Shirley Espert Galarce, Juliette Amador, Anthony Ham, Kayla Gilchrist
