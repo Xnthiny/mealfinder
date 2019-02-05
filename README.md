@@ -42,6 +42,7 @@ Firebase Authenticating Tool for the Login
 ### API Reference
 
 MarketPlace: Spoonacular API for Recipes
+
 Four Squares: Places, Venue & Restaurant Search 
 
 ## Contributions
