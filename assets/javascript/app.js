@@ -188,8 +188,10 @@ $(document).ready(function() {
   //When ready to search, user presses search button to display recipes and restaurants
   $("#search-ingred").on('click', function (event) {
     event.preventDefault();
-  
+    
+    $("#recipe-list").empty();
     $("#resultsButtons").show();
+    $("#restaurants").empty();
     $(".restaurants").show();
     $("#log-out-btn-res").show();
 
@@ -265,6 +267,7 @@ $(document).ready(function() {
   //Function to display ingredients and steps of the recipe chosen
   function showRecipe(num) {
     $("#recipes-page").empty();
+    $("#restaurants").empty();
     var queryURLinstr = "https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/recipes/" + num + "/information"
       
     $.ajax({
