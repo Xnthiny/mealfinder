@@ -2,6 +2,8 @@
 
 ### *Food is for eating, and good food is to be enjoyed*
 
+![alt text](https://github.com/Xnthiny/project1/blob/master/assets/images/MealFinderHome.png)
+
 ## Project 1 - Full Stack Development Program University of Miami Cohort 2019
 
 ## Team Members
