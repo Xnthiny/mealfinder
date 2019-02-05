@@ -235,7 +235,7 @@ $(document).ready(function() {
           // var imageCard = $('<img class="card-img-top recipeCard" id="' + results[j].id + '">');REMOVED SHER
           var imageCard = $('<img class="card-img-top recipeCard">');
           var bodyCard = $('<div class="card-body">');
-          var titleCard = $('<h3 class="card-title">');
+          var titleCard = $('<h5 class="card-title">');
           titleCard.text(results[j].title);
           imageCard.attr("src", results[j].image);
           imageCard.attr("data-recipe-id", results[j].id);
@@ -387,7 +387,7 @@ $(document).ready(function() {
           var divCard = $('<div class="col">');
           var imageCard = $('<img class="card-img-top favoriteCard">');
           var bodyCard = $('<div class="card-body">');
-          var titleCard = $('<h3 class="card-title">');
+          var titleCard = $('<h5 class="card-title">');
           titleCard.text(results.title);
           imageCard.attr("src", results.image);
           imageCard.attr("data-recipe-id", results.id);
